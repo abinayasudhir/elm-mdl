@@ -7,7 +7,7 @@
         "src", "examples"
     ],
     "exposed-modules": [
-        "MDL"
+        "Mdl"
     ],
     "dependencies": {
         "elm-lang/core": "2.0.0 <= v < 3.0.0",
