@@ -1,4 +1,4 @@
-module MDL (page, icon, btnClsShorthand) where 
+module Mdl (page, icon, btnClsShorthand) where 
 
 {-| This library provides shortcuts for Material Design Lite library.
 

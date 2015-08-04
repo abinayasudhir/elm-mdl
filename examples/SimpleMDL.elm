@@ -1,4 +1,4 @@
-import MDL exposing (..)
+import Mdl exposing (..)
 import Html exposing (div, button, text, br)
 import Html.Attributes exposing (..)
 
